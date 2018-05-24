@@ -1,6 +1,6 @@
 {
   "name": "regex-weburl",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Regular Expression for URL validation",
   "main": "regex-weburl.js",
   "scripts": {

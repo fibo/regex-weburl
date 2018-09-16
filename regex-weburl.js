@@ -99,4 +99,4 @@ var re_weburl = new RegExp(
     "(?:[/?#]\\S*)?" +
   "$", "i"
 );
-module.exports = re_weburl;
+module.exports = exports.default = re_weburl;
